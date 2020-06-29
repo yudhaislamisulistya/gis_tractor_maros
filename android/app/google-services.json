@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "548417405201",
+    "firebase_url": "https://gis-indonesia.firebaseio.com",
+    "project_id": "gis-indonesia",
+    "storage_bucket": "gis-indonesia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548417405201:android:6a4dea90fc88e928020cb0",
+        "android_client_info": {
+          "package_name": "com.leadevs.thesisgisproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548417405201-81lomd1kvsc2d88m8k9ujht9cu84n2n5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.leadevs.thesisgisproject",
+            "certificate_hash": "6b5f24694e391ab94c682cc74524309885538fd5"
+          }
+        },
+        {
+          "client_id": "548417405201-j33ps3l1rs3k3616f6t8less4ad1dl8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfKItNFA_OLSSuHaHxD5_J-hZSemJqp1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548417405201-j33ps3l1rs3k3616f6t8less4ad1dl8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
