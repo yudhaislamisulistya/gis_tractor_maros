@@ -1,4 +1,4 @@
-# thesisgisproject
+# GIS Traktor Maros
 
 A new Flutter application.
 
